@@ -1,4 +1,4 @@
-![logo](./mobile/src/images/logo.png)
+
 
 
 ## 💻 Sobre
@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### memesMaker exemplo funcionnado:
 
-![WebFaleMais](https://user-images.githubusercontent.com/54605079/89106336-82a20980-d3ff-11ea-88f2-9e4c03f3d12a.gif)
+![memeMaker](https://user-images.githubusercontent.com/54605079/89959476-e18f2c00-dc12-11ea-8735-d6f43630d106.gif)
 
 
 ### 🎲 Rodando o projeto
